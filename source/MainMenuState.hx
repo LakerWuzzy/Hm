@@ -97,7 +97,6 @@ class MainMenuState extends MusicBeatState
 			menuItem.animation.addByPrefix('selected', optionShit[i] + " white", 24);
 			menuItem.animation.play('idle');
 			menuItem.ID = i;
-			menuItem.x = 250;
 			menuItems.add(menuItem);
 			menuItem.scrollFactor.set();
 			menuItem.antialiasing = true;
@@ -109,6 +108,7 @@ class MainMenuState extends MusicBeatState
 					}});
 			else
 				menuItem.y = 60 + (i * 160);
+				menuItem.x = 250;
 		}
 
 		firstStart = false;
