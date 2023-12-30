@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="Lightwuz .png" width="3979" height="2017">
+  <SubTexture name="lightwuzDowm0001" x="0" y="0"  width="475" height="657" frameX="-153" frameY="-39" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="lightwuzDowm0003" x="475" y="0"  width="494" height="657" frameX="-143" frameY="-39" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="lightwuzDowm0002" x="969" y="0"  width="483" height="659" frameX="-149" frameY="-37" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="lightwuzDowm0004" x="1452" y="0"  width="500" height="660" frameX="-137" frameY="-36" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="lightwuzIdle0001" x="1952" y="0"  width="447" height="664" frameX="-161" frameY="-30" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="lightwuzUp0001" x="2399" y="0"  width="447" height="664" frameX="-161" frameY="-30" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="lightwuzIdle0002" x="2846" y="0"  width="446" height="666" frameX="-158" frameY="-29" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="lightwuzIdle0003" x="3292" y="0"  width="446" height="668" frameX="-155" frameY="-28" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="lightwuzIdle0004" x="0" y="657"  width="443" height="668" frameX="-155" frameY="-29" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="lightwuzRight0002" x="443" y="657"  width="421" height="670" frameX="-182" frameY="-25" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="lightwuzUp0002" x="864" y="659"  width="449" height="670" frameX="-164" frameY="-25" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="lightwuzRight0001" x="1313" y="660"  width="426" height="671" frameX="-182" frameY="-23" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="lightwuzRight0003" x="1739" y="664"  width="422" height="673" frameX="-174" frameY="-23" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="lightwuzUp0003" x="2161" y="664"  width="454" height="673" frameX="-166" frameY="-23" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="lightwuzRight0004" x="2615" y="666"  width="424" height="674" frameX="-165" frameY="-23" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="lightwuzUp0004" x="3039" y="668"  width="467" height="677" frameX="-158" frameY="-20" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="lightwuzLeft0001" x="3506" y="668"  width="473" height="684" frameX="-146" frameY="-10" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="lightwuzLeft0002" x="0" y="1327"  width="479" height="685" frameX="-143" frameY="-9" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="lightwuzLeft0003" x="479" y="1329"  width="486" height="686" frameX="-140" frameY="-7" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="lightwuzLeft0004" x="965" y="1331"  width="490" height="686" frameX="-139" frameY="-7" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="lightwuzIdle0007" x="1952" y="0"  width="447" height="664" frameX="-161" frameY="-30" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="lightwuzIdle0006" x="2846" y="0"  width="446" height="666" frameX="-158" frameY="-29" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="lightwuzIdle0005" x="3292" y="0"  width="446" height="668" frameX="-155" frameY="-28" frameWidth="720" frameHeight="720"/>
+</TextureAtlas>

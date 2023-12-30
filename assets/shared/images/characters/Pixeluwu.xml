@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="Pixeluwu.png" width="1536" height="240">
+  <SubTexture name="uwuDown0001" x="0" y="0"  width="192" height="224" frameX="-32" frameY="-32" frameWidth="256" frameHeight="256"/>
+  <SubTexture name="uwuUp0001" x="192" y="0"  width="192" height="224" frameX="-32" frameY="-32" frameWidth="256" frameHeight="256"/>
+  <SubTexture name="uwuIdleLeft0001" x="384" y="0"  width="192" height="240" frameX="-32" frameY="-16" frameWidth="256" frameHeight="256"/>
+  <SubTexture name="uwuLeft0001" x="576" y="0"  width="192" height="240" frameX="-16" frameY="-16" frameWidth="256" frameHeight="256"/>
+  <SubTexture name="uwuLeft0002" x="768" y="0"  width="192" height="240" frameX="-32" frameY="-16" frameWidth="256" frameHeight="256"/>
+  <SubTexture name="uwuRight0001" x="960" y="0"  width="192" height="240" frameX="-48" frameY="-16" frameWidth="256" frameHeight="256"/>
+  <SubTexture name="uwuRight0002" x="1152" y="0"  width="192" height="240" frameX="-32" frameY="-16" frameWidth="256" frameHeight="256"/>
+  <SubTexture name="uwuUp0002" x="1344" y="0"  width="192" height="240" frameX="-32" frameY="-16" frameWidth="256" frameHeight="256"/>
+  <SubTexture name="uwuIdleRight0002" x="0" y="0"  width="192" height="224" frameX="-32" frameY="-32" frameWidth="256" frameHeight="256"/>
+  <SubTexture name="uwuDown0002" x="384" y="0"  width="192" height="240" frameX="-32" frameY="-16" frameWidth="256" frameHeight="256"/>
+</TextureAtlas>
