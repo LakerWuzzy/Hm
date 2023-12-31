@@ -1,7 +1,8 @@
 Tutorial:gf:1
 Bopeebo:dad:1
+Cracker:dad:1
 Fresh:dad:1
-Dad Battle:dad:1
+Final Rap:dad:1
 Spookeez:spooky:2
 South:spooky:2
 Monster:monster:2
