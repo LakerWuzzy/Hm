@@ -231,6 +231,7 @@ class FreeplayState extends MusicBeatState
 
 		switch (curDifficulty)
 		{
+			case 0:
 				diffText.text = 'HARD';
 			case 2:
 				diffText.text = "HELL";
