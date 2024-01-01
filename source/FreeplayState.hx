@@ -67,7 +67,7 @@ class FreeplayState extends MusicBeatState
 
 		// LOAD CHARACTERS
 
-		var bg:FlxSprite = new FlxSprite().loadGraphic(Paths.image('menuBGBlue'));
+		var bg:FlxSprite = new FlxSprite().loadGraphic(Paths.image('encarandoatelanofundodasuaalma'));
 		add(bg);
 
 		grpSongs = new FlxTypedGroup<Alphabet>();
@@ -231,12 +231,9 @@ class FreeplayState extends MusicBeatState
 
 		switch (curDifficulty)
 		{
-			case 0:
-				diffText.text = "EASY";
-			case 1:
-				diffText.text = 'NORMAL';
+				diffText.text = 'HARD';
 			case 2:
-				diffText.text = "HARD";
+				diffText.text = "HELL";
 		}
 	}
 
