@@ -26,7 +26,7 @@ class StoryMenuState extends MusicBeatState
 	var weekData:Array<Dynamic> = [
 		['Tutorial'],
 		['Bopeebo', 'dangerous-father', 'Fresh', 'final-rap'],
-		['Spookeez', 'Party time', 'South', "Monster"],
+		['Spookeez', 'party-time', 'South', "Monster"],
 		['Pico', 'Philly Nice', "Blammed"],
 		['Satin Panties', "High", "Milf"],
 		['Cocoa', 'Eggnog', 'Winter Horrorland'],
@@ -49,7 +49,7 @@ class StoryMenuState extends MusicBeatState
 	var weekNames:Array<String> = [
 		"",
 		"The Ex Rockstar Daddy Dearest.",
-		"Spooky Month",
+		"Welcome to the Mansion!",
 		"PICO",
 		"MOMMY MUST MURDER",
 		"RED SNOW",
